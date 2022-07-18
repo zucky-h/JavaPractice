@@ -20,5 +20,11 @@ public class Output {
         */
         System.out.printf("こんにちは！");
         System.out.printf("HelloWorld!!");
+
+        System.out.printf("\' \" \\ \nhoge \thoget \rhoger");
+        // キャリッジ・リターン
+        System.out.println("watashiha roa\rhoger");
+        // 水平タブ
+        System.out.println("\thoget");
     }
 }
